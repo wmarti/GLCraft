@@ -27,4 +27,21 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\mc_dirt.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\mc_grass.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\mc_grass_top.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\terrain.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\wall.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

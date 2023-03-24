@@ -145,6 +145,13 @@
   <ItemGroup>
     <ClInclude Include="src\Engine.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\mc_dirt.jpeg" />
+    <Image Include="assets\mc_grass.jpeg" />
+    <Image Include="assets\mc_grass_top.jpeg" />
+    <Image Include="assets\terrain.png" />
+    <Image Include="assets\wall.jpg" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
